@@ -13,6 +13,4 @@ function solution(l: number, fares: number[]) {
     } else if (resultado[0] <= 20){
         return "UberX"
     }
-    
-    return resultado;
 }
